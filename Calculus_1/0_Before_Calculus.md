@@ -18,7 +18,7 @@ A function f is a rule that associates a unique output with each input. If the i
 ### Independent and Dependent Variables {docsify-ignore}
 For any input of x, the output of a function is the value of f at x. Sometimes the output of functions are denoted by a single letter, say y:
 
-"Insert Picture"
+$$y=f(x)$$
 
 The x variable above is the Independent Variable and the y is the Dependent Variable, this makes sense because  doesn't depend on anything, you definite it yourself, while the y depends on what you give in for x.
 
