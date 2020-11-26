@@ -221,26 +221,7 @@ We just set f(x) = 0\
 Graphs of functions can provide us really helpful visual details. Before
 we get into calculus, there are some graphs that we should know.
 
-┬á
-
-┬á
-
-┬á
-
-┬á
-
-┬á
-
-┬á
-
-┬á
-
-┬á
-
-┬á
-
-┬á
-
+**Look at the pdf**
 ### The Vertical Line Test
 
 The Vertical Line Test line test is a really handy took that can be used
@@ -269,22 +250,22 @@ To tell if the curves are functions or not, we just add a vertical line
 and move it around the graph, if the vertical line at any point touches
 the graph more than once then it is not a function.
 
-1.  ┬á\
+1.  **Look at the pdf**
     In this example, we can see that the blue vertical line we inserted
     no matter where it is moved on the domain, it is going to touch the
     graph once and only once.
 
-2.  ┬á\
+2.  **Look at the pdf**
     Again, we can see that no matter where on the domain we are, we are
     never going to touch the vertical line more than once.
 
-3.  ┬á\
+3.  **Look at the pdf**
     This example is different from the two we saw before. There are
     certain values of x that if we draw a vertical line through, they
     are going to touch the curve more than once. Thus, this curve is NOT
     a function.
 
-4.  ┬á\
+4.  **Look at the pdf**
     It is a function!
 
 ### Piece-wise Defined Functions
@@ -294,12 +275,7 @@ functions and each of those functions are defined at a certain interval
 
 The best way to understand piece-wise functions is to look at one:
 
-$$f(x) =
-  \begin{cases}
-                                   2x & \text{if $x\leq 0$} \\
-                                   \frac{1}{x} & \text{if $x>0$}
-  \end{cases}$$
-
+**Look at the pdf**
 Here we can see that our function $f(x)$ has two functions inside of it:
 $2x$ and $\frac{1}{x}$. Depending where we are on the domain, we either
 use the first one ($2x$) or the second one ($\frac{1}{x}$).
