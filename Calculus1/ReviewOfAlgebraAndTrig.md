@@ -238,13 +238,13 @@ look at an example.
 
 Determine if each of the following curves are functions.
 
-1.  ┬á
+1.  **Look at the pdf**
 
-2.  ┬á
+2.  **Look at the pdf**
 
-3.  ┬á
+3.  **Look at the pdf**
 
-4.  ┬á
+4.  **Look at the pdf**
 
 To tell if the curves are functions or not, we just add a vertical line
 and move it around the graph, if the vertical line at any point touches
